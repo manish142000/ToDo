@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1B4Bb519xuiD4wqs38v4Cei+fTwo/U6u1dQdsKE301rtVUenZo+9KCjWBUBl3Gz1rLU1HvexMwS7SHJb1uncRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ManishBawkar\\OneDrive - Kongsberg Digital AS\\Desktop\\ToDoApp\\ToDo\\ToDoManager\\ToDoManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ManishBawkar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
